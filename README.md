@@ -1,2 +1,1 @@
-# IOC-AOP
-Spring IOC/AOP
+# Spring IOC/AOP
